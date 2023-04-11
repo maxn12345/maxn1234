@@ -1,0 +1,22 @@
+div {  
+    width: auto;  
+    height: auto;  
+    text-align: center;  
+    border: 3px solid black;
+    align-content: center;
+    align-items: center;
+    }  
+img {  
+    width: 115px;
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 10px;  
+}  
+
+.hide {
+    filter: brightness(0.0);
+}
+
+.show {
+    filter: brightness(1.0);
+}
